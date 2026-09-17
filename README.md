@@ -6,3 +6,9 @@ The console will work without them, but it will display a blank screen until it 
 
 Usually put in /System Update/A or /System Update/B as bootanim.dat
 
+
+
+for a VERY GOOD reference to all things Xbox goto: https://github.com/xboxoneresearch/wiki/blob/master/docs/boot/bootanimation.md
+
+
+
