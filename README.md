@@ -4,7 +4,7 @@ Collection of boot animations from Xbox Consoles, these are required when settin
 
 The console will work without them, but it will display a blank screen until it reaches User login/select screen.
 
-
+There are times where a big system update will restore the file if left off.  
 
 
 
