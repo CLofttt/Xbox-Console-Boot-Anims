@@ -4,11 +4,15 @@ Collection of boot animations from Xbox Consoles, these are required when settin
 
 The console will work without them, but it will display a blank screen until it reaches User login/select screen.
 
-Usually put in /System Update/A or /System Update/B as bootanim.dat
+
+
+
+
+It must be copied into both folders of A and B in System Update (X) drive.
+
+
 
 
 
 for a VERY GOOD reference to all things Xbox goto: https://github.com/xboxoneresearch/wiki/blob/master/docs/boot/bootanimation.md
-
-
 
